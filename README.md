@@ -10,7 +10,6 @@
 
 Thanks for visiting my GitHub! Feel free to explore my projects.
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=tsenyun.tsenyun)
 
 
 <!--
