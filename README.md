@@ -1,12 +1,12 @@
 ## Hello World! 👋
 
-- 🔭I'm Tsen-Yun Hung, currently working in Marketing and Business Development for a Canadian Biotech company.
+- 🌱I'm Tsen-Yun Hung, currently working in Marketing and Business Development for a Canadian Biotech company.
 
-- 🌱I love diving into the data world, uncovering insights, and using those insights to drive business improvement!
+- 📈I love diving into the data world, uncovering insights, and using those insights to drive business improvement!
 
-- ⚡Recently, I built a Python program that automatically collects product data from websites. Check it out [here](https://github.com/tsenyun/Python/blob/main/Amazon%20Web%20Scraping.ipynb)
+- 💻Recently, I built a Python program that automatically collects product data from websites. Check it out [here](https://github.com/tsenyun/Python/blob/main/Amazon%20Web%20Scraping.ipynb)
 
-- I'm always excited about new opportunities to work with data and expand my skills.
+- ⚡I'm always excited about new opportunities to work with data and expand my skills.
 
 Thanks for visiting my GitHub! Feel free to explore my projects.
 
