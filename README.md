@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-- 🌱I'm Tsen-Yun Hung, currently working in Marketing and Business Development for a Canadian Biotech company.
+- 🌱I'm Tsen-Yun Hung, currently freelancing in Marketing and Business Development for a Canadian Biotech company.
 
 - 📈I love diving into the data world, uncovering insights, and using those insights to drive business improvement!
 
