@@ -40,6 +40,8 @@ Project 3: [COVID-19 Data Analysis](https://github.com/tsenyun/SQL)
  
 Thanks for visiting my GitHub! Feel free to explore my projects and connect with me.
 
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=tsenyun.tsenyun)
+
 
 <!--
 **tsenyun/tsenyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
