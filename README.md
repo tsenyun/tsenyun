@@ -5,7 +5,7 @@ I love diving into data, uncovering insights, and driving business improvements!
 
  
 ### 🚀 About Me
-- 🌟 Passionate about: Data Analysis, Marketing Strategies, Business Development
+- 🌟 Passionate about: Data Analysis, Marketing Strategies, Market Research, Business Development
 - 💡 Recently built: a Python program automatically collects product data from websites
 - 🌍 Looking for: Opportunities to leverage data for impactful business decisions 
 
