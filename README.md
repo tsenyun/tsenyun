@@ -20,7 +20,7 @@ Languages & Tools:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
  
-### 📈 Projects
+### 📈 Highlighted Projects
 Project 1: [Automated Product Data Collection](https://github.com/tsenyun/Python/blob/main/Amazon%20Web%20Scraping.ipynb)
 - Built a Python program to automatically collect product data from websites.
 - Technologies used: Python, BeautifulSoup, Requests
