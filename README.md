@@ -1,6 +1,6 @@
 ## Hello World! 👋 
 
-Hi! I'm Tsen-Yun, a freelance marketer and business developer currently working with a Canadian Biotech company.  
+Hi! I'm Tsen-Yun, a data analyst currently working for a Software Development company while providing email marketing services for two Canadian Companies(Biotech & Hospitality).  
 I love diving into data, uncovering insights, and driving business improvements!
 
  
